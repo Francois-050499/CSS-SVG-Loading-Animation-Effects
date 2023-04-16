@@ -70,12 +70,17 @@ body {
     line-height: 2.5;
     letter-spacing: 1.5px;
     text-align: left;
-    margin-bottom: 80px;
+    margin-bottom: 15px;
 }
 
 .section-description-sub {
     font-size: 20px;
     letter-spacing: 1.5px;
+    margin-bottom: 40px;
+}
+
+.section-blank {
+    font-size: 20px;
     margin-bottom: 40px;
 }
 
